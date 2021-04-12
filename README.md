@@ -16,3 +16,6 @@ You can use it for personal use and commercial but you will have to limit the am
 
 ## Support
 Please use the ``Issues`` page for questions and also issues.
+
+## Recommended Hosting Type
+We recommend that you use cPanel as we only have tutorials for that one.
